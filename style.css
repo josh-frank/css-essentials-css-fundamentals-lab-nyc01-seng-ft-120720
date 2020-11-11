@@ -20,7 +20,7 @@ nav {
 nav a {
   margin: auto;
   padding: 10px;
-  background: #EEE;
+  background: #eee;
 }
 
 figcaption {
@@ -40,4 +40,7 @@ figcaption {
 
 #details div {
   float: left;
+  background: #eee;
+  width: 25%;
+  padding: 10px;
 }
